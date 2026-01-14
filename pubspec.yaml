@@ -16,7 +16,7 @@ dependencies:
   sse_channel:
     git:
       url: https://github.com/MohamedElzokla/sse_channel
-      ref: main
+      ref: version0_1_1_hotfix
 
   message_pack_dart: ^2.0.1
   http: ^1.1.0
